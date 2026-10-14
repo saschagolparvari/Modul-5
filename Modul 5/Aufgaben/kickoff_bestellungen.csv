@@ -1,0 +1,21 @@
+bestell_id,datum,kunde_email,produkt,menge,preis_eur,land
+1001,2026-03-01,anna@example.com,Tastatur,1,"39,90",DE
+1002,01.03.2026,,Maus,2,19.90,DE
+1003,2026-03-02,tom@example.com,Monitor,1,"199,00",Deutschland
+1004,2026-03-02,LISA@example.com,Tastatur,-1,"39,90",DE
+1005,2026-03-03,max@example.com,Dockingstation,1,0,AT
+1006,2026-03-03,julia@example.com,Laptopständer,1,24.95,DE
+1007,04.03.2026,tom@example.com,LaptopstÃ¤nder,2,"24,95",DE
+1008,2026-03-04,nina@example.com,Headset,1,59.90,AT
+1009,2026-03-05,,Monitor,1,"199,00",Deutschland
+1010,05.03.2026,jorg@example.com,Webcam HD,1,"49,50",DE
+1011,2026-03-06,anna@example.com,Maus,3,19.90,DE
+1012,2026-03-06,PAUL@example.com,Tastatur,1,"39,90",de
+1013,2026-03-09,clara@example.com,Dockingstation,1,"129,00",AT
+1014,09.03.2026,tim@example.com,Headset,2,"59,90",DE
+1015,2026-03-10,lena@example.com,Monitor,0,199.00,DE
+1016,2026-03-10,omer@example.com,Webcam HD,1,"49,50",Österreich
+1017,2026-03-11,sophie@example.com,Maus,1,"19,90",DE
+1018,11.03.2026,,Tastatur,1,39.90,DE
+1019,2026-03-12,max@example.com,LaptopstÃ¤nder,1,"24,95",DE
+1020,2026-03-13,nadine@example.com,Monitor,1,"199,00",DE

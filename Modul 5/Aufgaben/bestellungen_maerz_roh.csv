@@ -1,0 +1,61 @@
+bestell_id,datum,kunde_email,land,produkt,menge,preis_eur
+2032,2026-03-20,joerg.schaefer@example.com,AT,Dockingstation,4,"129,00"
+2021,15.03.2026,max.weiss@example.com,DE,Maus,2,19.90
+2048,2026-03-28,timo.jaeger@example.com,DE,Laptopständer,2,24.95
+2018,2026-03-14,lena.krueger@example.com,DE,Webcam HD,2,"49,50"
+2011,2026-03-10,max.weiss@example.com,de,Headset,4,"59,90"
+2045,27.03.2026,lena.krueger@example.com,DE,Maus,4,19.90
+2035,2026-03-22,sophie.gross@example.com,DE,Laptopständer,4,"24,95"
+2016,2026-03-12,,DE,Webcam HD,3,49.50
+2022,2026-03-15,tom.keller@example.com,DE,Maus,2,"19,90"
+2031,2026-03-20,timo.jaeger@example.com,AT,Laptopständer,1,24.95
+2038,22.03.2026,mia.lorenz@example.com,AT,Maus,2,19.90
+2046,2026-03-27,,Österreich,Dockingstation,1,129.00
+2013,11.03.2026,anna.bauer@example.com,DE,USB-C-Kabel 2m,4,9.95
+2014,2026-03-12,clara.boehm@example.com,Deutschland,Tastatur,1,"39,90"
+2028,2026-03-19,timo.jaeger@example.com,AT,USB-C-Kabel 2m,1,"9,95"
+2019,2026-03-14,tom.keller@example.com,de,Tastatur,4,39.90
+2033,2026-03-20,eva.brandt@example.com,AT,Dockingstation,2,129.00
+2002,2026-03-03,clara.boehm@example.com,Österreich,Dockingstation,1,129.00
+2017,2026-03-12,lena.krueger@example.com,AT,USB-C-Kabel 2m,1,"9,95"
+2036,2026-03-22,anna.bauer@example.com,DE,Maus,1,"19,90"
+2044,26.03.2026,max.weiss@example.com,DE,Webcam HD,4,49.50
+2023,2026-03-17,nadine.vogl@example.com,DE,USB-C-Kabel 2m,2,"9,95"
+2029,2026-03-20,joerg.schaefer@example.com,DE,Webcam HD,1,49.50
+2050,29.03.2026,nadine.vogl@example.com,AT,Maus,4,19.90
+2030,2026-03-20,joerg.schaefer@example.com,DE,Maus,2,19.90
+2052,30.03.2026,anna.bauer@example.com,DE,Monitor 24 Zoll,2,149.00
+2041,2026-03-25,sophie.gross@example.com,de,USB-C-Kabel 2m,1,9.95
+2037,2026-03-22,,AT,Headset,1,59.90
+2051,2026-03-30,eva.brandt@example.com,Deutschland,Monitor 24 Zoll,2,"149,00"
+2010,2026-03-09,max.weiss@example.com,Deutschland,Tastatur,2,39.90
+2034,2026-03-21,anna.bauer@example.com,Deutschland,Laptopständer,3,24.95
+2003,2026-03-04,tom.keller@example.com,DE,Monitor 24 Zoll,2,"149,00"
+2042,2026-03-25,joerg.schaefer@example.com,at,Headset,1,59.90
+2025,2026-03-18,tom.keller@example.com,DE,Laptopständer,2,"24,95"
+2006,2026-03-08,lena.krueger@example.com,DE,Monitor 24 Zoll,2,"149,00"
+2030,2026-03-20,joerg.schaefer@example.com,DE,Maus,2,19.90
+2007,2026-03-08,sophie.gross@example.com,Deutschland,Dockingstation,3,129.00
+2012,2026-03-11,lena.krueger@example.com,DE,Monitor 24 Zoll,4,149.00
+2001,2026-03-02,sophie.gross@example.com,DE,USB-C-Kabel 2m,1,9.95
+2008,08.03.2026,sophie.gross@example.com,AT,Headset,1,59.90
+2033,2026-03-20,eva.brandt@example.com,AT,Dockingstation,2,129.00
+2039,24.03.2026,tom.keller@example.com,DE,Webcam HD,4,49.50
+2053,2026-03-31,timo.jaeger@example.com,DE,Headset,2,"59,90"
+2049,2026-03-29,timo.jaeger@example.com,AT,Headset,2,"59,90"
+2027,2026-03-19,,DE,Laptopständer,3,24.95
+2043,2026-03-26,nadine.vogl@example.com,DE,Laptopständer,3,"24,95"
+2047,2026-03-27,sophie.gross@example.com,Österreich,USB-C-Kabel 2m,1,9.95
+2031,2026-03-20,timo.jaeger@example.com,AT,Laptopständer,1,24.95
+2009,2026-03-09,tom.keller@example.com,de,Monitor 24 Zoll,2,149.00
+2001,2026-03-02,sophie.gross@example.com,DE,USB-C-Kabel 2m,1,9.95
+2015,2026-03-12,joerg.schaefer@example.com,de,Webcam HD,3,49.50
+2029,2026-03-20,joerg.schaefer@example.com,DE,Webcam HD,1,49.50
+2040,2026-03-24,mia.lorenz@example.com,Deutschland,Maus,4,19.90
+2024,18.03.2026,clara.boehm@example.com,DE,USB-C-Kabel 2m,3,9.95
+2020,2026-03-15,paul.haeusler@example.com,DE,Monitor 24 Zoll,4,"149,00"
+2004,06.03.2026,lena.krueger@example.com,DE,Maus,4,"19,90"
+2012,2026-03-11,lena.krueger@example.com,DE,Monitor 24 Zoll,4,149.00
+2026,2026-03-19,,DE,USB-C-Kabel 2m,4,9.95
+2005,06.03.2026,clara.boehm@example.com,DE,USB-C-Kabel 2m,2,9.95
+2048,2026-03-28,timo.jaeger@example.com,DE,Laptopständer,2,24.95
