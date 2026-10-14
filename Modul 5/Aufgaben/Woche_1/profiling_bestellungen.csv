@@ -1,0 +1,169 @@
+bestell_id,datum,kunde_email,produkt,kategorie,menge,preis_eur,land
+2004,2026-03-22,emma@example.com,Maus,Zubehör,2,19.9,DE
+2072,2026-03-06,paul@example.com,USB-C-Kabel,zubehör,2,9.95,DE
+2134,2026-03-05,sophie@example.com,Lautsprecher,Audio,3,89.0,DE
+2117,2026-03-04,anna@example.com,Tastatur,Zubehör,4,39.9,CH
+2074,2026-03-17,clara@example.com,Dockingstation,Zubehör,3,129.0,DE
+2123,2026-03-21,ben@example.com,Dockingstation,Zubehör,1,129.0,AT
+2031,2026-03-05,mia@example.com,Dockingstation,Zubehör,4,129.0,DE
+2124,2026-04-07,david@example.com,Monitor 24 Zoll,Monitore,3,199.0,CH
+2051,2026-04-12,,Lautsprecher,Audio,1,89.0,DE
+2003,2026-03-04,lena@example.com,Lautsprecher,Audio,1,89.0,AT
+2107,07.03.2026,lisa@example.com,Webcam HD,Zubehör,2,49.5,DE
+2070,2026-03-21,lena@example.com,Lautsprecher,Audio,4,89.0,DE
+2011,2026-03-14,marie@example.com,Monitor 27 Zoll,Monitore,4,279.0,DE
+2059,2026-03-17,noah@example.com,Lautsprecher,Audio,4,89.0,AT
+2030,14.04.2026,paul@example.com,Dockingstation,Zubehör,4,129.0,AT
+2083,2026-03-11,ida@example.com,Dockingstation,Zubehör,1,129.0,DE
+2027,2026-04-11,clara@example.com,Dockingstation,Zubehör,2,-59.9,CH
+2087,2026-03-10,jonas@example.com,USB-C-Kabel,Zubehör,2,9.95,DE
+2095,2026-03-02,clara@example.com,Webcam HD,Zubehör,3,49.5,DE
+2078,2026-03-17,ben@example.com,Lautsprecher,Audio,1,89.0,DE
+2144,2026-03-15,nina@example.com,Monitor 24 Zoll,Monitore,2,199.0,Österreich
+2005,15.04.2026,julia@example.com,Headset,Audio,4,59.9,DE
+2151,2026-03-02,jonas@example.com,Tastatur ,Zubehör,1,39.9,DE
+2111,18.03.2026,lena@example.com,USB-C-Kabel,Zubehör,2,9.95,DE
+2028,2026-04-11,sophie@example.com,Tastatur,Zubehör,4,39.9,DE
+2159,2026-03-31,lisa@example.com,Monitor 24 Zoll,Monitore,4,199.0,Deutschland
+2036,2026-04-03,ida@example.com,Monitor 24 Zoll,Monitore,4,199.0,DE
+2043,13.04.2026,lena@example.com,USB-C-Kabel,Zubehör,4,9.95,DE
+2103,2026-03-09,julia@example.com,Headset,Audio,2,59.9,DE
+2086,2026-04-14,sophie@example.com,Tastatur,Zubehör,2,39.9,DE
+2077,2026-03-18,max@example.com,Tastatur ,Zubehör,4,39.9,DE
+2094,2026-03-17,tom@example.com,Monitor 24 Zoll,Monitore,1,199.0,DE
+2075,2026-03-16,,Maus,Zubehör,3,19.9,DE
+2135,2026-03-10,lena@example.com,USB-C-Kabel,Zubehör,4,9.95,DE
+2150,20.03.2026,lisa@example.com,Laptopständer,Zubehör,4,24.95,CH
+2061,2026-03-14,ben@example.com,Monitor 27 Zoll,,3,279.0,DE
+2058,24.03.2026,ben@example.com,Laptopständer,Zubehör,2,24.95,DE
+2152,05.04.2026,sara@example.com,Monitor 24 Zoll,Monitore,3,199.0,DE
+2093,2026-03-26,ben@example.com,Dockingstation,zubehör,3,129.0,DE
+2106,10.03.2026,lisa@example.com,Lautsprecher,Audio,1,89.0,DE
+2113,31.03.2026,omer@example.com,Lautsprecher,Audio,1,89.0,DE
+2148,2026-03-24,sara@example.com,Maus,Zubehör,250,19.9,CH
+2112,2026-03-20,emma@example.com,Webcam HD,Zubehör,1,49.5,DE
+2069,2026-04-13,clara@example.com,Tastatur,zubehör,4,39.9,DE
+2097,2026-03-11,david@example.com,Tastatur ,Zubehör,1,39.9,DE
+2102,2026-03-13,felix@example.com,Monitor 27 Zoll,Monitore,3,279.0,CH
+2091,2026-04-06,lisa@example.com,Monitor 24 Zoll,Monitore,4,199.0,DE
+2076,2026-03-29,lena@example.com,Tastatur,Zubehör,1,39.9,DE
+2143,2026-03-24,julia@example.com,Laptopständer,Zubehör,1,24.95,CH
+2013,2026-03-17,laura@example.com,Laptopständer,Zubehör,1,24.95,DE
+2062,2026-04-12,,USB-C-Kabel,Zubehör,1,9.95,DE
+2064,2026-03-08,nina@example.com,Monitor 24 Zoll,Monitore,4,199.0,DE
+2138,2026-04-12,noah@example.com,USB-C-Kabel,Zubehör,4,9.95,AT
+2156,2026-04-07,ida@example.com,USB-C-Kabel,Zubehör,2,9.95,AT
+2025,2026-04-02,ben@example.com,Headset,Audio,1,59.9,DE
+2089,01.04.2026,sara@example.com,Dockingstation,Zubehör,2,129.0,DE
+2024,2026-03-04,felix@example.com,Webcam HD,Zubehör,1,49.5,DE
+2046,2026-03-29,ben@example.com,Dockingstation,Zubehör,4,129.0,de
+2156,2026-04-06,tom@example.com,Webcam HD,Zubehör,1,49.5,DE
+2039,2026-03-11,tom@example.com,Tastatur,Zubehör,1,39.9,DE
+2141,2026-03-01,max@example.com,Lautsprecher,Audio,4,89.0,DE
+2074,2026-03-17,clara@example.com,Dockingstation,Zubehör,3,129.0,DE
+2100,2026-03-20,jonas@example.com,Headset,,1,59.9,DE
+2108,2026-03-09,clara@example.com,Tastatur,Zubehoer,3,39.9,CH
+2066,2026-04-03,sophie@example.com,Webcam HD,Zubehör,1,49.5,DE
+2050,2026-03-23,ben@example.com,Laptopständer,Zubehör,2,24.95,DE
+2073,09.03.2026,sophie@example.com,Dockingstation,Zubehör,1,129.0,DE
+2115,2026-03-16,julia@example.com,Dockingstation,Zubehör,4,129.0,DE
+2126,2026-03-07,laura@example.com,Maus,Zubehör,2,19.9,DE
+2065,2026-03-31,jonas@example.com,Tastatur,zubehör,3,39.9,CH
+2155,07.04.2026,emma@example.com,Monitor 27 Zoll,Monitore,4,279.0,DE
+2122,2026-03-12,sara@example.com,Tastatur,Zubehör,1,0.0,DE
+2008,2026-03-09,ida@example.com,Monitor 27 Zoll,Monitore,2,279.0,DE
+2010,2026-03-19,tom@example.com,Monitor 27 Zoll,Monitore,3,279.0,DE
+2067,2026-04-06,paul@example.com,Lautsprecher,Audio,2,89.0,DE
+2146,2026-03-15,felix@example.com,Dockingstation,Zubehör,2,129.0,DE
+2012,2026-03-02,emma@example.com,Monitor 27 Zoll,Monitore,2,279.0,CH
+2034,2026-03-05,omer@example.com,Lautsprecher,Audio,2,89.0,DE
+2033,2026-03-25,sara@example.com,USB-C-Kabel,Zubehör,2,9.95,DE
+2038,26.03.2026,felix@example.com,Maus,Zubehör,1,19.9,DE
+2020,2026-03-06,anna@example.com,Laptopständer,Zubehör,1,24.95,DE
+2136,2026-03-30,jan@example.com,Webcam HD,Zubehör,1,49.5,DE
+2153,2026-03-25,nina@example.com,Headset,Audio,1,59.9,AT
+2140,2026-03-07,clara@example.com,USB-C-Kabel,zubehör,1,9.95,DE
+2002,2026-03-15,emma@example.com,Webcam HD,Zubehör,1,49.5,DE
+2042,2026-03-12,laura@example.com,Webcam HD,Zubehör,3,49.5,AT
+2041,2026-04-13,max@example.com,Maus,Zubehör,3,19.9,DE
+2001,2026-04-12,clara@example.com,Webcam HD,Zubehör,2,49.5,AT
+2112,2026-03-20,emma@example.com,Webcam HD,Zubehör,1,49.5,DE
+2160,2026-04-01,david@example.com,Dockingstation,Zubehör,2,129.0,AT
+2142,2026-04-02,emma@example.com,Lautsprecher,Audio,4,89.0,DE
+2054,2026-03-04,paul@example.com,USB-C-Kabel,Zubehör,2,9.95,DE
+2154,13.04.2026,marie@example.com,Webcam HD,Zubehör,3,49.5,DE
+2068,2026-04-10,jan@example.com,Headset,Audio,2,59.9,DE
+2033,2026-03-25,sara@example.com,USB-C-Kabel,Zubehör,2,9.95,DE
+2015,2026-04-05,,Monitor 24 Zoll,Monitore,2,199.0,DE
+2099,2026-03-21,nina@example.com,Tastatur,Zubehör,4,39.9,DE
+2137,2026-03-11,marie@example.com,Dockingstation,Zubehör,2,129.0,DE
+2139,2026-03-13,mia@example.com,Webcam HD,Zubehör,2,49.5,AT
+2133,2026-04-09,emma@example.com,Dockingstation,Zubehör,2,129.0,DE
+2147,2026-04-12,ida@example.com,Monitor 24 Zoll,Monitore,2,199.0,DE
+2157,2026-04-07,noah@example.com,USB-C-Kabel,Zubehör,4,9.95,DE
+2084,16.03.2026,jan@example.com,Tastatur,Zubehör,3,39.9,CH
+2037,2026-04-12,,Headset,Audio,4,59.9,DE
+2110,2026-03-16,tim@example.com,Lautsprecher,Audio,2,89.0,DE
+2125,2026-04-03,,Maus,Zubehör,2,19.9,DE
+2035,2026-03-30,anna@example.com,Laptopständer,Zubehör,1,24.95,DE
+2116,2026-04-10,lena@example.com,USB-C-Kabel,Zubehör,1,9.95,AT
+2120,2026-03-01,julia@example.com,USB-C-Kabel,Zubehör,4,9.95,DE
+2145,2026-03-27,julia@example.com,Laptopständer,Zubehör,3,24.95,DE
+2060,2026-04-05,clara@example.com,Monitor 24 Zoll,Monitore,4,199.0,DE
+2098,2026-04-15,jonas@example.com,Maus,Zubehör,4,19.9,DE
+2071,2026-03-08,noah@example.com,Tastatur,Zubehör,4,39.9,DE
+2081,2026-04-11,jan@example.com,Monitor 24 Zoll,Monitore,4,199.0,Deutschland
+2063,2026-03-09,clara@example.com,Dockingstation,Zubehör,2,129.0,DE
+2049,2026-03-20,tim@example.com,USB-C-Kabel,Zubehör,4,9.95,DE
+2119,28.03.2026,sophie@example.com,Maus,Zubehör,3,19.9,DE
+2149,2026-03-13,felix@example.com,Webcam HD,Zubehör,3,49.5,AT
+2105,2026-03-25,omer@example.com,Maus,Zubehör,1,19.9,CH
+2056,2026-03-27,ida@example.com,USB-C-Kabel,,1,9.95,DE
+2021,2026-03-03,nina@example.com,Lautsprecher,Audio,2,89.0,CH
+2021,2026-03-03,nina@example.com,Lautsprecher,Audio,2,89.0,CH
+2057,2026-04-04,jonas@example.com,Tastatur,Zubehör,2,39.9,AT
+2079,2026-03-23,lena@example.com,Webcam HD,Zubehör,1,49.5,AT
+2032,2026-03-26,emma@example.com,Laptopständer,Zubehör,2,24.95,DE
+2018,2026-03-06,lena@example.com,Monitor 27 Zoll,Monitore,2,279.0,de
+2096,2026-03-24,felix@example.com,Laptopständer,Zubehoer,1,24.95,DE
+2053,2026-04-08,emma@example.com,Monitor 24 Zoll,Monitore,1,199.0,Österreich
+2085,2026-04-10,julia@example.com,Maus,Zubehör,3,19.9,de
+2092,2026-03-19,felix@example.com,USB-C-Kabel,zubehör,1,9.95,AT
+2127,2026-03-05,,Tastatur,Zubehör,3,39.9,DE
+2055,2026-03-14,clara@example.com,Monitor 27 Zoll,Monitore,2,279.0,Deutschland
+2101,2026-03-05,emma@example.com,Monitor 27 Zoll,Monitore,3,0.0,CH
+2052,2026-03-05,laura@example.com,USB-C-Kabel,Zubehoer,1,9.95,DE
+2025,2026-03-11,noah@example.com,Dockingstation,Zubehör,4,129.0,DE
+2082,2026-03-17,lisa@example.com,Maus,Zubehör,0,19.9,DE
+2007,2026-03-19,omer@example.com,Tastatur,Zubehör,2,39.9,DE
+2132,2026-03-14,anna@example.com,Webcam HD,Zubehör,2,49.5,DE
+2009,2026-03-08,tim@example.com,Monitor 24 Zoll,,4,199.0,AT
+2014,2026-04-11,tim@example.com,Dockingstation,Zubehör,2,129.0,DE
+2088,2026-04-08,lena@example.com,Laptopständer,Zubehör,1,24.95,AT
+2080,2026-03-14,noah@example.com,Laptopständer,Zubehör,4,24.95,DE
+2128,2026-03-01,felix@example.com,Lautsprecher,Audio,1,89.0,DE
+2040,2026-03-30,max@example.com,Dockingstation,Zubehör,1,129.0,DE
+2131,2026-03-20,,Monitor 24 Zoll,Monitore,1,199.0,DE
+2121,2026-03-17,sara@example.com,Webcam HD,Zubehoer,1,49.5,DE
+2045,2026-04-08,felix@example.com,Maus,Zubehör,1,19.9,DE
+2023,2026-03-31,tom@example.com,Webcam HD,Zubehör,1,49.5,AT
+2044,2026-03-23,ida@example.com,Monitor 27 Zoll,Monitore,0,279.0,DE
+2035,2026-03-30,anna@example.com,Laptopständer,Zubehör,1,24.95,DE
+2047,2026-04-13,max@example.com,Headset,Audio,2,59.9,DE
+2006,08.04.2026,anna@example.com,Webcam HD,Zubehör,2,49.5,DE
+2079,2026-03-23,lena@example.com,Webcam HD,Zubehör,1,49.5,AT
+2019,2026-03-26,omer@example.com,Dockingstation,Zubehör,-2,129.0,DE
+2017,2026-04-15,julia@example.com,Tastatur,Zubehör,3,39.9,DE
+2104,2026-04-09,ida@example.com,Dockingstation,Zubehör,4,129.0,DE
+2118,2026-03-01,nina@example.com,Monitor 24 Zoll,Monitore,2,199.0,DE
+2158,2026-03-06,tim@example.com,Lautsprecher,Audio,4,89.0,Deutschland
+2016,04.04.2026,noah@example.com,Headset,Audio,3,59.9,DE
+2029,22.03.2026,laura@example.com,Webcam HD,Zubehör,3,49.5,DE
+2114,2026-04-01,,Monitor 27 Zoll,Monitore,3,279.0,AT
+2090,2026-04-02,noah@example.com,Monitor 24 Zoll,,4,199.0,DE
+2109,2026-03-11,clara@example.com,USB-C-Kabel,Zubehör,4,9.95,DE
+2130,2026-03-10,,Dockingstation,Zubehör,2,129.0,DE
+2129,2026-03-25,,Monitor 24 Zoll,Monitore,2,199.0,DE
+2048,2026-04-13,,Webcam HD,Zubehör,3,49.5,DE
+2022,2026-03-31,ida@example.com,Dockingstation,Zubehör,1,129.0,DE
+2026,2026-03-22,ben@example.com,Laptopständer,Zubehör,4,24.95,CH

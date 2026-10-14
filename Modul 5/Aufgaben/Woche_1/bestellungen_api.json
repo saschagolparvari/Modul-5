@@ -1,0 +1,916 @@
+{
+  "status": "ok",
+  "anzahl_bestellungen": 50,
+  "bestellungen": [
+    {
+      "bestell_id": 1001,
+      "datum": "2026-03-02",
+      "kunde": {
+        "name": "Anna Bauer",
+        "firma": "Datentechnik Nord",
+        "ort": "München"
+      },
+      "positionen": [
+        {
+          "produkt": "Tastatur",
+          "menge": 1,
+          "preis_eur": 39.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1002,
+      "datum": "2026-03-03",
+      "kunde": {
+        "name": "Jörg Schäfer",
+        "firma": "Kontor 24",
+        "ort": "Münster"
+      },
+      "positionen": [
+        {
+          "produkt": "Headset",
+          "menge": 2,
+          "preis_eur": 59.9
+        },
+        {
+          "produkt": "Tastatur",
+          "menge": 2,
+          "preis_eur": 39.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1003,
+      "datum": "2026-03-04",
+      "kunde": {
+        "name": "Lena Krüger",
+        "firma": "MediaPoint",
+        "ort": "Würzburg"
+      },
+      "positionen": [
+        {
+          "produkt": "Monitor 24 Zoll",
+          "menge": 3,
+          "preis_eur": 149.0
+        }
+      ]
+    },
+    {
+      "bestell_id": 1004,
+      "datum": "2026-03-05",
+      "kunde": {
+        "name": "Ömer Yilmaz",
+        "firma": "Kabelwerk",
+        "ort": "Köln"
+      },
+      "positionen": [
+        {
+          "produkt": "Laptopständer",
+          "menge": 4,
+          "preis_eur": 24.95
+        }
+      ]
+    },
+    {
+      "bestell_id": 1005,
+      "datum": "2026-03-06",
+      "kunde": {
+        "name": "Sophie Groß",
+        "firma": "TechHaus",
+        "ort": "Fürth"
+      },
+      "positionen": [
+        {
+          "produkt": "Webcam HD",
+          "menge": 1,
+          "preis_eur": 49.5
+        },
+        {
+          "produkt": "Laptopständer",
+          "menge": 1,
+          "preis_eur": 24.95
+        }
+      ]
+    },
+    {
+      "bestell_id": 1006,
+      "datum": "2026-03-09",
+      "kunde": {
+        "name": "Max Weiß",
+        "firma": "Logistik Plus",
+        "ort": "Hamburg"
+      },
+      "positionen": [
+        {
+          "produkt": "Maus",
+          "menge": 2,
+          "preis_eur": 19.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1007,
+      "datum": "2026-03-10",
+      "kunde": {
+        "name": "Clara Böhm",
+        "firma": "Printagentur",
+        "ort": "Düsseldorf"
+      },
+      "positionen": [
+        {
+          "produkt": "Dockingstation",
+          "menge": 3,
+          "preis_eur": 129.0
+        }
+      ]
+    },
+    {
+      "bestell_id": 1008,
+      "datum": "2026-03-11",
+      "kunde": {
+        "name": "Timo Jäger",
+        "firma": "Bürobedarf Süd",
+        "ort": "Lübeck"
+      },
+      "positionen": [
+        {
+          "produkt": "USB-C-Kabel 2m",
+          "menge": 4,
+          "preis_eur": 9.95
+        },
+        {
+          "produkt": "Dockingstation",
+          "menge": 2,
+          "preis_eur": 129.0
+        },
+        {
+          "produkt": "Maus",
+          "menge": 1,
+          "preis_eur": 19.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1009,
+      "datum": "2026-03-12",
+      "kunde": {
+        "name": "Nadine Vogl",
+        "firma": "Handelshof",
+        "ort": "Berlin"
+      },
+      "positionen": [
+        {
+          "produkt": "Tastatur",
+          "menge": 1,
+          "preis_eur": 39.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1010,
+      "datum": "2026-03-13",
+      "kunde": {
+        "name": "Paul Häusler",
+        "firma": "Systemhaus West",
+        "ort": "Nürnberg"
+      },
+      "positionen": [
+        {
+          "produkt": "Headset",
+          "menge": 2,
+          "preis_eur": 59.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1011,
+      "datum": "2026-03-02",
+      "kunde": {
+        "name": "Anna Bauer",
+        "firma": "Datentechnik Nord",
+        "ort": "München"
+      },
+      "positionen": [
+        {
+          "produkt": "Monitor 24 Zoll",
+          "menge": 3,
+          "preis_eur": 149.0
+        },
+        {
+          "produkt": "Headset",
+          "menge": 1,
+          "preis_eur": 59.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1012,
+      "datum": "2026-03-03",
+      "kunde": {
+        "name": "Jörg Schäfer",
+        "firma": "Kontor 24",
+        "ort": "Münster"
+      },
+      "positionen": [
+        {
+          "produkt": "Laptopständer",
+          "menge": 4,
+          "preis_eur": 24.95
+        }
+      ]
+    },
+    {
+      "bestell_id": 1013,
+      "datum": "2026-03-04",
+      "kunde": {
+        "name": "Lena Krüger",
+        "firma": "MediaPoint",
+        "ort": "Würzburg"
+      },
+      "positionen": [
+        {
+          "produkt": "Webcam HD",
+          "menge": 1,
+          "preis_eur": 49.5
+        }
+      ]
+    },
+    {
+      "bestell_id": 1014,
+      "datum": "2026-03-05",
+      "kunde": {
+        "name": "Ömer Yilmaz",
+        "firma": "Kabelwerk",
+        "ort": "Köln"
+      },
+      "positionen": [
+        {
+          "produkt": "Maus",
+          "menge": 2,
+          "preis_eur": 19.9
+        },
+        {
+          "produkt": "Webcam HD",
+          "menge": 2,
+          "preis_eur": 49.5
+        }
+      ]
+    },
+    {
+      "bestell_id": 1015,
+      "datum": "2026-03-06",
+      "kunde": {
+        "name": "Sophie Groß",
+        "firma": "TechHaus",
+        "ort": "Fürth"
+      },
+      "positionen": [
+        {
+          "produkt": "Dockingstation",
+          "menge": 3,
+          "preis_eur": 129.0
+        }
+      ]
+    },
+    {
+      "bestell_id": 1016,
+      "datum": "2026-03-09",
+      "kunde": {
+        "name": "Max Weiß",
+        "firma": "Logistik Plus",
+        "ort": "Hamburg"
+      },
+      "positionen": [
+        {
+          "produkt": "USB-C-Kabel 2m",
+          "menge": 4,
+          "preis_eur": 9.95
+        }
+      ]
+    },
+    {
+      "bestell_id": 1017,
+      "datum": "2026-03-10",
+      "kunde": {
+        "name": "Clara Böhm",
+        "firma": "Müller & Söhne; Handels-GmbH",
+        "ort": "Düsseldorf"
+      },
+      "positionen": [
+        {
+          "produkt": "Tastatur",
+          "menge": 1,
+          "preis_eur": 39.9
+        },
+        {
+          "produkt": "USB-C-Kabel 2m",
+          "menge": 1,
+          "preis_eur": 9.95
+        }
+      ]
+    },
+    {
+      "bestell_id": 1018,
+      "datum": "2026-03-11",
+      "kunde": {
+        "name": "Timo Jäger",
+        "firma": "Bürobedarf Süd",
+        "ort": "Lübeck"
+      },
+      "positionen": [
+        {
+          "produkt": "Headset",
+          "menge": 2,
+          "preis_eur": 59.9
+        },
+        {
+          "produkt": "USB-C-Kabel 2m",
+          "menge": 1,
+          "preis_eur": 9.95
+        }
+      ]
+    },
+    {
+      "bestell_id": 1019,
+      "datum": "2026-03-12",
+      "kunde": {
+        "name": "Nadine Vogl",
+        "firma": "Handelshof",
+        "ort": "Berlin"
+      },
+      "positionen": [
+        {
+          "produkt": "Monitor 24 Zoll",
+          "menge": 3,
+          "preis_eur": 149.0
+        }
+      ]
+    },
+    {
+      "bestell_id": 1020,
+      "datum": "2026-03-13",
+      "kunde": {
+        "name": "Paul Häusler",
+        "firma": "Systemhaus West",
+        "ort": "Nürnberg"
+      },
+      "positionen": [
+        {
+          "produkt": "Laptopständer",
+          "menge": 4,
+          "preis_eur": 24.95
+        },
+        {
+          "produkt": "Monitor 24 Zoll",
+          "menge": 2,
+          "preis_eur": 149.0
+        }
+      ]
+    },
+    {
+      "bestell_id": 1021,
+      "datum": "2026-03-02",
+      "kunde": {
+        "name": "Anna Bauer",
+        "firma": "Datentechnik Nord",
+        "ort": "München"
+      },
+      "positionen": [
+        {
+          "produkt": "Webcam HD",
+          "menge": 1,
+          "preis_eur": 49.5
+        }
+      ]
+    },
+    {
+      "bestell_id": 1022,
+      "datum": "2026-03-03",
+      "kunde": {
+        "name": "Jörg Schäfer",
+        "firma": "Kontor 24",
+        "ort": "Münster"
+      },
+      "positionen": [
+        {
+          "produkt": "Maus",
+          "menge": 2,
+          "preis_eur": 19.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1023,
+      "datum": "2026-03-04",
+      "kunde": {
+        "name": "Lena Krüger",
+        "firma": "MediaPoint",
+        "ort": "Würzburg"
+      },
+      "positionen": [
+        {
+          "produkt": "Dockingstation",
+          "menge": 3,
+          "preis_eur": 129.0
+        },
+        {
+          "produkt": "Maus",
+          "menge": 1,
+          "preis_eur": 19.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1024,
+      "datum": "2026-03-05",
+      "kunde": {
+        "name": "Ömer Yilmaz",
+        "firma": "Kabelwerk",
+        "ort": "Köln"
+      },
+      "positionen": [
+        {
+          "produkt": "USB-C-Kabel 2m",
+          "menge": 4,
+          "preis_eur": 9.95
+        }
+      ]
+    },
+    {
+      "bestell_id": 1025,
+      "datum": "2026-03-06",
+      "kunde": {
+        "name": "Sophie Groß",
+        "firma": "TechHaus",
+        "ort": "Fürth"
+      },
+      "positionen": [
+        {
+          "produkt": "Tastatur",
+          "menge": 1,
+          "preis_eur": 39.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1026,
+      "datum": "2026-03-09",
+      "kunde": {
+        "name": "Max Weiß",
+        "firma": "Logistik Plus",
+        "ort": "Hamburg"
+      },
+      "positionen": [
+        {
+          "produkt": "Headset",
+          "menge": 2,
+          "preis_eur": 59.9
+        },
+        {
+          "produkt": "Tastatur",
+          "menge": 2,
+          "preis_eur": 39.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1027,
+      "datum": "2026-03-10",
+      "kunde": {
+        "name": "Clara Böhm",
+        "firma": "Printagentur",
+        "ort": "Düsseldorf"
+      },
+      "positionen": [
+        {
+          "produkt": "Monitor 24 Zoll",
+          "menge": 3,
+          "preis_eur": 149.0
+        }
+      ]
+    },
+    {
+      "bestell_id": 1028,
+      "datum": "2026-03-11",
+      "kunde": {
+        "name": "Timo Jäger",
+        "firma": "Bürobedarf Süd",
+        "ort": "Lübeck"
+      },
+      "positionen": [
+        {
+          "produkt": "Laptopständer",
+          "menge": 4,
+          "preis_eur": 24.95
+        },
+        {
+          "produkt": "Headset",
+          "menge": 1,
+          "preis_eur": 59.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1029,
+      "datum": "2026-03-12",
+      "kunde": {
+        "name": "Nadine Vogl",
+        "firma": "Handelshof",
+        "ort": "Berlin"
+      },
+      "positionen": [
+        {
+          "produkt": "Webcam HD",
+          "menge": 1,
+          "preis_eur": 49.5
+        },
+        {
+          "produkt": "Laptopständer",
+          "menge": 1,
+          "preis_eur": 24.95
+        }
+      ]
+    },
+    {
+      "bestell_id": 1030,
+      "datum": "2026-03-13",
+      "kunde": {
+        "name": "Paul Häusler",
+        "firma": "Systemhaus West",
+        "ort": "Nürnberg"
+      },
+      "positionen": [
+        {
+          "produkt": "Maus",
+          "menge": 2,
+          "preis_eur": 19.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1031,
+      "datum": "2026-03-02",
+      "kunde": {
+        "name": "Anna Bauer",
+        "firma": "Datentechnik Nord",
+        "ort": "München"
+      },
+      "positionen": [
+        {
+          "produkt": "Dockingstation",
+          "menge": 3,
+          "preis_eur": 129.0
+        }
+      ]
+    },
+    {
+      "bestell_id": 1032,
+      "datum": "2026-03-03",
+      "kunde": {
+        "name": "Jörg Schäfer",
+        "firma": "Kontor 24",
+        "ort": "Münster"
+      },
+      "positionen": [
+        {
+          "produkt": "USB-C-Kabel 2m",
+          "menge": 4,
+          "preis_eur": 9.95
+        },
+        {
+          "produkt": "Dockingstation",
+          "menge": 2,
+          "preis_eur": 129.0
+        }
+      ]
+    },
+    {
+      "bestell_id": 1033,
+      "datum": "2026-03-04",
+      "kunde": {
+        "name": "Lena Krüger",
+        "firma": "MediaPoint",
+        "ort": "Würzburg"
+      },
+      "positionen": [
+        {
+          "produkt": "Tastatur",
+          "menge": 1,
+          "preis_eur": 39.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1034,
+      "datum": "2026-03-05",
+      "kunde": {
+        "name": "Ömer Yilmaz",
+        "firma": "Kabelwerk",
+        "ort": "Köln"
+      },
+      "positionen": [
+        {
+          "produkt": "Headset",
+          "menge": 2,
+          "preis_eur": 59.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1035,
+      "datum": "2026-03-06",
+      "kunde": {
+        "name": "Sophie Groß",
+        "firma": "TechHaus",
+        "ort": "Fürth"
+      },
+      "positionen": [
+        {
+          "produkt": "Monitor 24 Zoll",
+          "menge": 3,
+          "preis_eur": 149.0
+        },
+        {
+          "produkt": "Headset",
+          "menge": 1,
+          "preis_eur": 59.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1036,
+      "datum": "2026-03-09",
+      "kunde": {
+        "name": "Max Weiß",
+        "firma": "Logistik Plus",
+        "ort": "Hamburg"
+      },
+      "positionen": [
+        {
+          "produkt": "Laptopständer",
+          "menge": 4,
+          "preis_eur": 24.95
+        }
+      ]
+    },
+    {
+      "bestell_id": 1037,
+      "datum": "2026-03-10",
+      "kunde": {
+        "name": "Clara Böhm",
+        "firma": "Printagentur",
+        "ort": "Düsseldorf"
+      },
+      "positionen": [
+        {
+          "produkt": "Webcam HD",
+          "menge": 1,
+          "preis_eur": 49.5
+        }
+      ]
+    },
+    {
+      "bestell_id": 1038,
+      "datum": "2026-03-11",
+      "kunde": {
+        "name": "Timo Jäger",
+        "firma": "Bürobedarf Süd",
+        "ort": "Lübeck"
+      },
+      "positionen": [
+        {
+          "produkt": "Maus",
+          "menge": 2,
+          "preis_eur": 19.9
+        },
+        {
+          "produkt": "Webcam HD",
+          "menge": 2,
+          "preis_eur": 49.5
+        },
+        {
+          "produkt": "Laptopständer",
+          "menge": 1,
+          "preis_eur": 24.95
+        }
+      ]
+    },
+    {
+      "bestell_id": 1039,
+      "datum": "2026-03-12",
+      "kunde": {
+        "name": "Nadine Vogl",
+        "firma": "Handelshof",
+        "ort": "Berlin"
+      },
+      "positionen": [
+        {
+          "produkt": "Dockingstation",
+          "menge": 3,
+          "preis_eur": 129.0
+        }
+      ]
+    },
+    {
+      "bestell_id": 1040,
+      "datum": "2026-03-13",
+      "kunde": {
+        "name": "Paul Häusler",
+        "firma": "Systemhaus West",
+        "ort": "Nürnberg"
+      },
+      "positionen": [
+        {
+          "produkt": "USB-C-Kabel 2m",
+          "menge": 4,
+          "preis_eur": 9.95
+        }
+      ]
+    },
+    {
+      "bestell_id": 1041,
+      "datum": "2026-03-02",
+      "kunde": {
+        "name": "Anna Bauer",
+        "firma": "Datentechnik Nord",
+        "ort": "München"
+      },
+      "positionen": [
+        {
+          "produkt": "Tastatur",
+          "menge": 1,
+          "preis_eur": 39.9
+        },
+        {
+          "produkt": "USB-C-Kabel 2m",
+          "menge": 1,
+          "preis_eur": 9.95
+        }
+      ]
+    },
+    {
+      "bestell_id": 1042,
+      "datum": "2026-03-03",
+      "kunde": {
+        "name": "Jörg Schäfer",
+        "firma": "Kontor 24",
+        "ort": "Münster"
+      },
+      "positionen": [
+        {
+          "produkt": "Headset",
+          "menge": 2,
+          "preis_eur": 59.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1043,
+      "datum": "2026-03-04",
+      "kunde": {
+        "name": "Lena Krüger",
+        "firma": "MediaPoint",
+        "ort": "Würzburg"
+      },
+      "positionen": [
+        {
+          "produkt": "Monitor 24 Zoll",
+          "menge": 3,
+          "preis_eur": 149.0
+        }
+      ]
+    },
+    {
+      "bestell_id": 1044,
+      "datum": "2026-03-05",
+      "kunde": {
+        "name": "Ömer Yilmaz",
+        "firma": "Kabelwerk",
+        "ort": "Köln"
+      },
+      "positionen": [
+        {
+          "produkt": "Laptopständer",
+          "menge": 4,
+          "preis_eur": 24.95
+        },
+        {
+          "produkt": "Monitor 24 Zoll",
+          "menge": 2,
+          "preis_eur": 149.0
+        }
+      ]
+    },
+    {
+      "bestell_id": 1045,
+      "datum": "2026-03-06",
+      "kunde": {
+        "name": "Sophie Groß",
+        "firma": "TechHaus",
+        "ort": "Fürth"
+      },
+      "positionen": [
+        {
+          "produkt": "Webcam HD",
+          "menge": 1,
+          "preis_eur": 49.5
+        }
+      ]
+    },
+    {
+      "bestell_id": 1046,
+      "datum": "2026-03-09",
+      "kunde": {
+        "name": "Max Weiß",
+        "firma": "Logistik Plus",
+        "ort": "Hamburg"
+      },
+      "positionen": [
+        {
+          "produkt": "Maus",
+          "menge": 2,
+          "preis_eur": 19.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1047,
+      "datum": "2026-03-10",
+      "kunde": {
+        "name": "Clara Böhm",
+        "firma": "Printagentur",
+        "ort": "Düsseldorf"
+      },
+      "positionen": [
+        {
+          "produkt": "Dockingstation",
+          "menge": 3,
+          "preis_eur": 129.0
+        },
+        {
+          "produkt": "Maus",
+          "menge": 1,
+          "preis_eur": 19.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1048,
+      "datum": "2026-03-11",
+      "kunde": {
+        "name": "Timo Jäger",
+        "firma": "Bürobedarf Süd",
+        "ort": "Lübeck"
+      },
+      "positionen": [
+        {
+          "produkt": "USB-C-Kabel 2m",
+          "menge": 4,
+          "preis_eur": 9.95
+        },
+        {
+          "produkt": "Maus",
+          "menge": 1,
+          "preis_eur": 19.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1049,
+      "datum": "2026-03-12",
+      "kunde": {
+        "name": "Nadine Vogl",
+        "firma": "Handelshof",
+        "ort": "Berlin"
+      },
+      "positionen": [
+        {
+          "produkt": "Tastatur",
+          "menge": 1,
+          "preis_eur": 39.9
+        }
+      ]
+    },
+    {
+      "bestell_id": 1050,
+      "datum": "2026-03-13",
+      "kunde": {
+        "name": "Paul Häusler",
+        "firma": "Systemhaus West",
+        "ort": "Nürnberg"
+      },
+      "positionen": [
+        {
+          "produkt": "Headset",
+          "menge": 2,
+          "preis_eur": 59.9
+        },
+        {
+          "produkt": "Tastatur",
+          "menge": 2,
+          "preis_eur": 39.9
+        }
+      ]
+    }
+  ]
+}
