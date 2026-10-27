@@ -1,0 +1,13 @@
+produkt_id,produkt_name,kategorie,preis_eur
+SKU-101,Tastatur,Eingabegeräte,39.9
+SKU-102,Maus,Eingabegeräte,19.9
+SKU-103,Monitor 24 Zoll,Monitore & Zubehör,149.0
+SKU-104,Headset,Audio & Video,59.9
+SKU-105,Dockingstation,Kabel & Adapter,129.0
+SKU-106,Laptopständer,Monitore & Zubehör,34.9
+SKU-107,Webcam,Audio & Video,79.9
+SKU-108,USB-C-Kabel,Kabel & Adapter,12.95
+SKU-109,Mauspad,Eingabegeräte,9.95
+SKU-110,Monitorarm,Monitore & Zubehör,89.0
+SKU-111,Laptop-Hülle,Taschen & Schutz,24.9
+SKU-112,HDMI-Adapter,Kabel & Adapter,14.9

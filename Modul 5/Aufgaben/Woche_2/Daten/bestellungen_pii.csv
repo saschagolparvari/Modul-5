@@ -1,0 +1,81 @@
+bestell_id,datum,kunde_name,kunde_email,kunde_telefon,strasse,plz,ort,geburtsdatum,ip_adresse,produkt,menge,preis_eur
+3001,2026-04-01,Nico Koch,nico.koch@posteo.example,+49 154 5558513,Feldweg 30,50667,Köln,1974-10-23,198.51.100.106,Maus,2,19.9
+3002,2026-04-01,Cem Werner,cem.werner@gmx.example,+49 158 5552992,Rosenweg 51,50667,Köln,,198.51.100.25,Maus,4,19.9
+3003,2026-04-02,Paul Lehmann,paul.lehmann@mail.example,+49 150 5557662,Bergstraße 27,04109,Leipzig,2002-08-24,198.51.100.138,USB-C-Kabel,4,9.95
+3004,2026-04-02,Yusuf Neumann,yusuf.neumann@posteo.example,+49 158 5555448,Bergstraße 86,20095,Hamburg,1969-04-17,192.0.2.232,Headset,4,59.9
+3005,2026-04-03,Emre Klein,emre.klein@gmx.example,+49 157 5551899,Lindenweg 30,10437,Berlin,,192.0.2.10,USB-C-Kabel,4,9.95
+3006,2026-04-03,Elif Schulz,elif.schulz@gmx.example,,Gartenstraße 83,90402,Nürnberg,,203.0.113.16,USB-C-Kabel,4,9.95
+3007,2026-04-03,Katharina Wagner,katharina.wagner@gmx.example,+49 150 5558540,Mühlenstraße 97,90402,Nürnberg,1998-06-14,203.0.113.176,Dockingstation,2,149.0
+3008,2026-04-03,Hannes Becker,hannes.becker@mail.example,+49 159 5555807,Ahornweg 97,10437,Berlin,,203.0.113.250,Tastatur,4,39.9
+3009,2026-04-03,David Weber,david.weber@gmx.example,+49 155 5559674,Wiesengrund 79,04109,Leipzig,,192.0.2.24,Maus,1,19.9
+3010,2026-04-04,Willi Schulz,willi.schulz93@posteo.example,,Amselgasse 52,20095,Hamburg,,198.51.100.172,Maus,1,19.9
+3011,2026-04-04,Ida Lange,ida.lange78@mail.example,+49 150 5554117,Gartenstraße 8,90402,Nürnberg,1992-12-21,203.0.113.180,Webcam,4,49.9
+3012,2026-04-05,Ida Schmidt,ida.schmidt@posteo.example,+49 152 5554253,Wiesengrund 93,90402,Nürnberg,,192.0.2.61,Tastatur,1,39.9
+3013,2026-04-05,Lukas Yilmaz,lukas.yilmaz@firma.example,,Ahornweg 98,22301,Hamburg,,192.0.2.41,Monitor 24 Zoll,4,129.0
+3014,2026-04-06,Paul Neumann,paul.neumann@mail.example,+49 158 5554303,Amselgasse 52,40213,Düsseldorf,,192.0.2.128,Tastatur,2,39.9
+3015,2026-04-06,Vera Köhler,vera.koehler@mail.example,,Ringstraße 90,80331,München,,203.0.113.36,Tastatur,3,39.9
+3016,2026-04-06,Frauke Meyer,frauke.meyer@mail.example,+49 153 5559009,Gartenstraße 36,50667,Köln,,198.51.100.177,Maus,3,19.9
+3017,2026-04-07,Yusuf Yilmaz,yusuf.yilmaz98@gmx.example,+49 152 5557224,Rosenweg 86,70173,Stuttgart,,198.51.100.229,Dockingstation,1,149.0
+3018,2026-04-07,Katharina Schmidt,katharina.schmidt@web.example,,Rosenweg 10,10437,Berlin,,198.51.100.7,Monitor 24 Zoll,1,129.0
+3019,2026-04-08,Ronja Köhler,ronja.koehler@gmx.example,+49 157 5551263,Wiesengrund 11,10437,Berlin,2001-05-28,198.51.100.92,Monitor 24 Zoll,3,129.0
+3020,2026-04-08,Elif Schulz,elif.schulz@gmx.example,,Gartenstraße 83,90402,Nürnberg,,198.51.100.66,Maus,1,19.9
+3021,2026-04-08,Samuel Meyer,samuel.meyer95@posteo.example,+49 158 5556267,Hauptstraße 3,22301,Hamburg,1994-07-27,192.0.2.218,Monitor 24 Zoll,4,129.0
+3022,2026-04-08,Tessa Richter,tessa.richter78@web.example,+49 155 5558233,Ahornweg 18,04109,Leipzig,,192.0.2.171,USB-C-Kabel,4,9.95
+3023,2026-04-08,Nico Schmidt,nico.schmidt88@gmx.example,+49 154 5553551,Mühlenstraße 83,10437,Berlin,,203.0.113.237,Maus,4,19.9
+3024,2026-04-09,Umut Krause,umut.krause88@web.example,,Kirschgasse 92,81675,München,,203.0.113.228,Monitor 24 Zoll,2,129.0
+3025,2026-04-09,Mia Müller,mia.mueller77@gmx.example,+49 156 5557142,Talstraße 81,04109,Leipzig,1984-01-15,192.0.2.193,Headset,4,59.9
+3026,2026-04-09,Özge Schäfer,oezge.schaefer@posteo.example,+49 153 5559692,Mühlenstraße 5,10437,Berlin,,192.0.2.76,USB-C-Kabel,2,9.95
+3027,2026-04-09,Ben Maier,ben.maier@firma.example,+49 159 5556912,Ringstraße 91,70173,Stuttgart,,192.0.2.147,Maus,2,19.9
+3028,2026-04-09,Samuel Meyer,samuel.meyer95@posteo.example,+49 158 5556267,Hauptstraße 3,22301,Hamburg,1994-07-27,192.0.2.110,Tastatur,1,39.9
+3029,2026-04-10,Björn Neumann,bjoern.neumann70@web.example,,Birkenallee 32,70173,Stuttgart,1986-03-16,203.0.113.163,Tastatur,4,39.9
+3030,2026-04-10,Dana Krüger,dana.krueger85@web.example,,Rosenweg 86,50823,Köln,,203.0.113.47,Dockingstation,3,149.0
+3031,2026-04-10,Clara Werner,clara.werner@gmx.example,+49 159 5557927,Ringstraße 72,40213,Düsseldorf,2004-07-02,198.51.100.6,Maus,2,19.9
+3032,2026-04-10,Hannes Meyer,hannes.meyer@gmx.example,+49 152 5558018,Feldweg 63,80331,München,,203.0.113.150,Webcam,3,49.9
+3033,2026-04-11,Hannes Becker,hannes.becker@mail.example,+49 159 5555807,Ahornweg 97,10437,Berlin,,203.0.113.179,USB-C-Kabel,4,9.95
+3034,2026-04-11,Paul Yilmaz,paul.yilmaz@gmx.example,+49 156 5553132,Am Anger 92,50667,Köln,,198.51.100.17,Tastatur,1,39.9
+3035,2026-04-11,Felix Köhler,felix.koehler@mail.example,+49 158 5555153,Bergstraße 16,04109,Leipzig,,203.0.113.7,Tastatur,1,39.9
+3036,2026-04-12,Hannes Werner,hannes.werner86@gmx.example,+49 152 5557038,Gartenstraße 84,22301,Hamburg,,192.0.2.77,Maus,4,19.9
+3037,2026-04-13,Björn Hartmann,bjoern.hartmann@web.example,,Hauptstraße 51,90402,Nürnberg,1969-06-03,198.51.100.28,Maus,1,19.9
+3038,2026-04-13,Dana Richter,dana.richter@gmx.example,,Am Anger 33,40213,Düsseldorf,1986-04-28,198.51.100.11,Dockingstation,4,149.0
+3039,2026-04-13,Umut Hoffmann,umut.hoffmann@posteo.example,,Rosenweg 91,50667,Köln,,198.51.100.12,Webcam,4,49.9
+3040,2026-04-14,Cem Schröder,cem.schroeder85@web.example,+49 157 5552606,Lindenweg 70,70173,Stuttgart,,198.51.100.183,USB-C-Kabel,3,9.95
+3041,2026-04-15,Ronja Schulz,ronja.schulz80@gmx.example,,Hauptstraße 64,80539,München,,203.0.113.23,Webcam,4,49.9
+3042,2026-04-16,Ben Müller,ben.mueller85@posteo.example,,Birkenallee 29,40213,Düsseldorf,,203.0.113.49,Monitor 24 Zoll,1,129.0
+3043,2026-04-16,Anna Fischer,anna.fischer@firma.example,+49 158 5555225,Bergstraße 67,10437,Berlin,1977-11-27,192.0.2.133,Tastatur,4,39.9
+3044,2026-04-17,Gero Özdemir,gero.oezdemir@posteo.example,,Talstraße 52,81675,München,1971-05-15,203.0.113.174,Headset,4,59.9
+3045,2026-04-17,Lukas Hoffmann,lukas.hoffmann@gmx.example,,Lindenweg 41,04109,Leipzig,1983-05-13,198.51.100.34,USB-C-Kabel,4,9.95
+3046,2026-04-18,Lukas Hoffmann,lukas.hoffmann@gmx.example,,Lindenweg 41,04109,Leipzig,1983-05-13,198.51.100.213,Tastatur,1,39.9
+3047,2026-04-18,Paul Yilmaz,paul.yilmaz@gmx.example,+49 156 5553132,Am Anger 92,50667,Köln,,203.0.113.49,USB-C-Kabel,2,9.95
+3048,2026-04-18,Lukas Yilmaz,lukas.yilmaz@firma.example,,Ahornweg 98,22301,Hamburg,,192.0.2.160,Laptopständer,4,29.9
+3049,2026-04-18,Dana Neumann,dana.neumann77@gmx.example,+49 159 5556841,Hauptstraße 30,50667,Köln,,198.51.100.22,Maus,2,19.9
+3050,2026-04-19,Frauke Weber,frauke.weber80@firma.example,,Gartenstraße 1,70173,Stuttgart,,198.51.100.14,Monitor 24 Zoll,4,129.0
+3051,2026-04-19,Katharina Braun,katharina.braun80@posteo.example,+49 156 5555267,Ahornweg 51,22301,Hamburg,1998-01-12,203.0.113.253,Laptopständer,2,29.9
+3052,2026-04-20,Lukas Yilmaz,lukas.yilmaz@firma.example,,Ahornweg 98,22301,Hamburg,,203.0.113.107,Webcam,3,49.9
+3053,2026-04-22,Zoe Koch,zoe.koch73@gmx.example,+49 158 5552283,Amselgasse 84,81675,München,,203.0.113.114,Maus,2,19.9
+3054,2026-04-22,Frauke Meyer,frauke.meyer@mail.example,+49 153 5559009,Gartenstraße 36,50667,Köln,,198.51.100.19,Dockingstation,4,149.0
+3055,2026-04-22,Tessa Köhler,tessa.koehler@mail.example,+49 159 5559154,Rosenweg 9,80331,München,1967-08-27,203.0.113.236,Dockingstation,4,149.0
+3056,2026-04-22,Nico Hartmann,nico.hartmann@gmx.example,+49 154 5555959,Mühlenstraße 7,70173,Stuttgart,,192.0.2.229,Dockingstation,4,149.0
+3057,2026-04-23,Dana Fischer,dana.fischer@posteo.example,+49 150 5555029,Lindenweg 26,50667,Köln,,198.51.100.235,Tastatur,3,39.9
+3058,2026-04-23,David Müller,david.mueller@firma.example,+49 150 5553848,Hauptstraße 93,50667,Köln,,203.0.113.86,Webcam,4,49.9
+3059,2026-04-23,Ida Hartmann,ida.hartmann89@mail.example,,Talstraße 76,50667,Köln,2001-01-18,198.51.100.131,Webcam,2,49.9
+3060,2026-04-24,Ben Neumann,ben.neumann@firma.example,,Feldweg 11,90402,Nürnberg,,192.0.2.91,USB-C-Kabel,3,9.95
+3061,2026-04-24,Tessa Müller,tessa.mueller@posteo.example,+49 153 5553688,Am Anger 77,22301,Hamburg,,192.0.2.31,USB-C-Kabel,4,9.95
+3062,2026-04-24,Katharina Wagner,katharina.wagner@gmx.example,+49 150 5558540,Mühlenstraße 97,90402,Nürnberg,1998-06-14,192.0.2.162,Dockingstation,3,149.0
+3063,2026-04-25,Björn Schäfer,bjoern.schaefer71@mail.example,+49 150 5556372,Lindenweg 53,70173,Stuttgart,,198.51.100.152,Webcam,1,49.9
+3064,2026-04-25,Hannes Meyer,hannes.meyer@gmx.example,+49 152 5558018,Feldweg 63,80331,München,,192.0.2.74,Dockingstation,2,149.0
+3065,2026-04-26,Björn Braun,bjoern.braun@mail.example,,Gartenstraße 55,90402,Nürnberg,1985-07-28,192.0.2.49,Laptopständer,1,29.9
+3066,2026-04-27,Dana Wagner,dana.wagner94@mail.example,+49 152 5554366,Amselgasse 81,40213,Düsseldorf,,192.0.2.176,Webcam,4,49.9
+3067,2026-04-27,Gero Wolf,gero.wolf@firma.example,,Gartenstraße 38,80539,München,1990-12-06,198.51.100.155,Headset,1,59.9
+3068,2026-04-27,Nico Koch,nico.koch@posteo.example,+49 154 5558513,Feldweg 30,50667,Köln,1974-10-23,192.0.2.222,Laptopständer,4,29.9
+3069,2026-04-27,David Weber,david.weber@gmx.example,+49 155 5559674,Wiesengrund 79,04109,Leipzig,,198.51.100.154,Webcam,4,49.9
+3070,2026-04-27,Willi Schulz,willi.schulz93@posteo.example,,Amselgasse 52,20095,Hamburg,,203.0.113.102,Maus,2,19.9
+3071,2026-04-27,Katharina Krause,katharina.krause@mail.example,+49 152 5558276,Feldweg 63,10115,Berlin,1971-08-22,203.0.113.246,USB-C-Kabel,4,9.95
+3072,2026-04-28,Clara Özdemir,clara.oezdemir@posteo.example,+49 154 5553648,Feldweg 62,40213,Düsseldorf,1982-04-19,203.0.113.35,USB-C-Kabel,4,9.95
+3073,2026-04-28,David Müller,david.mueller@firma.example,+49 150 5553848,Hauptstraße 93,50667,Köln,,203.0.113.26,Tastatur,3,39.9
+3074,2026-04-28,Emre Werner,emre.werner@gmx.example,+49 150 5551303,Birkenallee 46,70173,Stuttgart,,198.51.100.145,Laptopständer,4,29.9
+3075,2026-04-29,Ida Wolf,ida.wolf@firma.example,+49 150 5559775,Mühlenstraße 43,90402,Nürnberg,1993-10-03,203.0.113.66,Dockingstation,2,149.0
+3076,2026-04-29,Ben Schmidt,ben.schmidt@mail.example,+49 154 5556719,Birkenallee 41,50823,Köln,,192.0.2.140,Headset,1,59.9
+3077,2026-04-30,Ronja Yilmaz,ronja.yilmaz@mail.example,+49 150 5559556,Mühlenstraße 20,10437,Berlin,,198.51.100.56,Headset,2,59.9
+3078,2026-04-30,Nico Koch,nico.koch@posteo.example,+49 154 5558513,Feldweg 30,50667,Köln,1974-10-23,192.0.2.186,Maus,2,19.9
+3079,2026-04-30,Gero Wolf,gero.wolf@firma.example,,Gartenstraße 38,80539,München,1990-12-06,198.51.100.205,USB-C-Kabel,2,9.95
+3080,2026-04-30,Gero Zimmermann,gero.zimmermann@firma.example,+49 150 5555358,Ahornweg 32,70173,Stuttgart,,198.51.100.93,Dockingstation,1,149.0

@@ -1,0 +1,69 @@
+# ============================================================================
+#  chaos_notebook.txt — Text-Export aus "bereinigung_april_FINAL_v3.ipynb"
+#
+#  Hinterlassen von einem Kollegen (jetzt 3 Wochen im Urlaub).
+#  Die Zellen stehen hier so, wie sie im Notebook standen — die In[…]-Nummern
+#  zeigen, in welcher Reihenfolge er sie WIRKLICH ausgeführt hat.
+#
+#  ⚠️  NICHT AUSFÜHREN — erst lesen. (Tipp: Zelle In [9] steht ganz oben …)
+#  (Python würde die Datei trotz .txt-Endung ausführen: python chaos_notebook.txt)
+# ============================================================================
+
+
+# In [9]:  („der Export — hab ich nach oben gezogen, damit ich ihn gleich finde")
+df_clean.to_csv("bestellungen_april_roh.csv", index=False)   # spart eine Datei :-)
+print("fertig!", len(df_clean), "Zeilen exportiert")
+
+
+# In [1]:
+import pandas as pd
+
+df = pd.read_csv("bestellungen_april_roh.csv")
+df.head()
+
+
+# In [2]:
+# !pip install pandas    # lief irgendwann mal — welche Version? keine Ahnung
+
+
+# In [4]:
+# Preise sind Text ("39,90") -> Zahlen draus machen
+df["preis_eur"] = df["preis_eur"].str.replace(",", ".").astype(float)
+
+
+# In [3]:
+# doppelte Zeilen rausgeworfen (waren glaube ich 6?)
+df = df.drop_duplicates()
+len(df)
+
+
+# In [7]:
+# nur die aktuellen Bestellungen behalten — der April-Report soll ja frisch sein
+stichtag = pd.Timestamp.today()
+df = df[df["datum_parsed"] > stichtag - pd.Timedelta(days=90)]
+len(df)
+
+
+# In [5]:
+# Datumsspalte hat zwei Formate (ISO + deutsch) -> beide explizit parsen
+iso = pd.to_datetime(df["datum"], format="%Y-%m-%d", errors="coerce")
+de  = pd.to_datetime(df["datum"], format="%d.%m.%Y", errors="coerce")
+df["datum_parsed"] = iso.fillna(de)
+
+
+# In [6]:
+# Länder-Wildwuchs vereinheitlichen (wie letzte Woche)
+mapping = {"DE": "DE", "de": "DE", "Deutschland": "DE",
+           "AT": "AT", "Österreich": "AT"}
+df["land"] = df["land"].map(mapping)
+
+
+# (Markdown-Zelle:)
+# TODO: rabatt_pct hatte teilweise %-Zeichen drin ("10%") — hab ich eben
+# schnell in Excel rausgelöscht und die Datei neu gespeichert. 2 Minuten. ✔
+
+
+# In [8]:
+df_clean = df.copy()
+df_clean["bereinigt_am"] = pd.Timestamp.now()   # wann zuletzt geputzt wurde
+df_clean.head()
