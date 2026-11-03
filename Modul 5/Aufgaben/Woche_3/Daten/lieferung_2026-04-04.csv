@@ -1,0 +1,28 @@
+bestell_id,datum,kunde_email,land,produkt,menge,preis_eur
+3001,2026-04-01,felix.mayr@example.com,DE,Dockingstation,2,129.00
+3002,2026-04-01,eva.brandt@example.com,DE,Webcam HD,2,49.50
+3003,2026-04-01,joerg.schaefer@example.com,DE,Maus,2,19.90
+3004,2026-04-01,sophie.gross@example.com,DE,Headset,3,59.90
+3005,2026-04-01,sophie.gross@example.com,DE,Laptopständer,1,24.95
+3006,2026-04-01,nils.koch@example.com,DE,Laptopständer,3,24.95
+3007,2026-04-01,clara.stein@example.com,DE,Monitor 24 Zoll,3,149.00
+3008,2026-04-01,clara.stein@example.com,DE,Webcam HD,3,49.50
+3009,2026-04-01,max.weiss@example.com,DE,Monitor 24 Zoll,1,149.00
+3010,2026-04-01,joerg.schaefer@example.com,DE,Webcam HD,2,49.50
+3011,2026-04-02,max.weiss@example.com,DE,Webcam HD,1,49.50
+3012,2026-04-02,lena.krueger@example.com,DE,Headset,2,59.90
+3013,2026-04-02,timo.jaeger@example.com,DE,Tastatur,1,39.90
+3014,2026-04-02,joerg.schaefer@example.com,DE,Tastatur,1,39.90
+3015,2026-04-02,sophie.gross@example.com,AT,USB-C-Kabel,1,9.90
+3016,2026-04-02,max.weiss@example.com,DE,Laptopständer,1,24.95
+3017,2026-04-02,paul.wagner@example.com,AT,Dockingstation,1,129.00
+3018,2026-04-02,timo.jaeger@example.com,DE,Dockingstation,1,129.00
+3019,2026-04-02,nils.koch@example.com,DE,Maus,2,19.90
+3020,2026-04-03,lena.krueger@example.com,DE,Tastatur,3,39.90
+3021,2026-04-03,felix.mayr@example.com,DE,Dockingstation,1,129.00
+3022,2026-04-03,eva.brandt@example.com,AT,Maus,3,19.90
+3023,2026-04-03,nils.koch@example.com,AT,Tastatur,1,39.90
+3024,2026-04-03,eva.brandt@example.com,AT,Tastatur,3,39.90
+3025,2026-04-03,mia.hofer@example.com,AT,Dockingstation,1,129.00
+3026,2026-04-03,anna.berger@example.com,AT,Maus,1,19.90
+3027,2026-04-03,lena.krueger@example.com,AT,Webcam HD,3,49.50

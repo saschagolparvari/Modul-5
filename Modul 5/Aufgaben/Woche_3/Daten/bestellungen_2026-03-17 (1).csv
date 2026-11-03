@@ -1,0 +1,41 @@
+bestell_id,datum,kunde_email,land,produkt,menge,preis_eur,status
+5040,2026-03-16,kunde5040@example.com,DE,Monitor 24 Zoll,1,"129,00",bezahlt
+5041,2026-03-16,kunde5041@example.com,AT,Monitor 24 Zoll,2,"129,00",bezahlt
+5042,2026-03-16,kunde5042@example.com,AT,Dockingstation,4,"149,00",bezahlt
+5043,2026-03-16,kunde5043@example.com,DE,Maus,4,"19,90",bezahlt
+5044,2026-03-16,kunde5044@example.com,DE,Monitor 24 Zoll,1,"129,00",bezahlt
+5045,2026-03-17,kunde5045@example.com,DE,Tastatur,3,"39,90",bezahlt
+5046,2026-03-17,kunde5046@example.com,AT,Maus,3,"19,90",offen
+5047,2026-03-17,kunde5047@example.com,AT,Monitor 24 Zoll,1,"129,00",bezahlt
+5048,2026-03-17,kunde5048@example.com,DE,Dockingstation,2,"149,00",bezahlt
+5049,2026-03-17,kunde5049@example.com,DE,Tastatur,1,"39,90",offen
+5050,2026-03-17,kunde5050@example.com,AT,Headset,2,"59,90",offen
+5051,2026-03-17,kunde5051@example.com,DE,Maus,1,"19,90",offen
+5052,2026-03-17,kunde5052@example.com,DE,Maus,1,"19,90",bezahlt
+5053,2026-03-17,kunde5053@example.com,DE,Dockingstation,2,"149,00",bezahlt
+5054,2026-03-17,kunde5054@example.com,DE,USB-C-Kabel,2,"9,95",bezahlt
+5055,2026-03-17,kunde5055@example.com,DE,Maus,1,"19,90",bezahlt
+5056,2026-03-17,kunde5056@example.com,DE,USB-C-Kabel,4,"9,95",offen
+5057,2026-03-17,kunde5057@example.com,DE,Maus,3,"19,90",bezahlt
+5058,2026-03-17,kunde5058@example.com,DE,Monitor 24 Zoll,3,"129,00",bezahlt
+5059,2026-03-17,kunde5059@example.com,DE,Dockingstation,4,"149,00",bezahlt
+5060,2026-03-17,kunde5060@example.com,AT,Maus,2,"19,90",offen
+5061,2026-03-17,kunde5061@example.com,AT,Monitor 24 Zoll,1,"129,00",offen
+5062,2026-03-17,kunde5062@example.com,DE,USB-C-Kabel,3,"9,95",offen
+5063,2026-03-17,kunde5063@example.com,DE,Headset,1,"59,90",bezahlt
+5064,2026-03-17,kunde5064@example.com,DE,Maus,3,"19,90",bezahlt
+5065,2026-03-17,kunde5065@example.com,DE,Maus,3,"19,90",bezahlt
+5066,2026-03-17,kunde5066@example.com,DE,USB-C-Kabel,1,"9,95",bezahlt
+5067,2026-03-17,kunde5067@example.com,DE,Headset,2,"59,90",bezahlt
+5068,2026-03-17,kunde5068@example.com,AT,Dockingstation,2,"149,00",bezahlt
+5069,2026-03-17,kunde5069@example.com,DE,Headset,3,"59,90",bezahlt
+5070,2026-03-17,kunde5070@example.com,AT,Headset,4,"59,90",offen
+5071,2026-03-17,kunde5071@example.com,DE,Headset,2,"59,90",bezahlt
+5072,2026-03-17,kunde5072@example.com,DE,Monitor 24 Zoll,4,"129,00",bezahlt
+5073,2026-03-17,kunde5073@example.com,AT,USB-C-Kabel,1,"9,95",bezahlt
+5074,2026-03-17,kunde5074@example.com,DE,USB-C-Kabel,2,"9,95",bezahlt
+5075,2026-03-17,kunde5075@example.com,DE,Monitor 24 Zoll,2,"129,00",offen
+5076,2026-03-17,kunde5076@example.com,DE,Monitor 24 Zoll,3,"129,00",storniert
+5077,2026-03-17,kunde5077@example.com,AT,Tastatur,4,"39,90",offen
+5078,2026-03-17,kunde5078@example.com,DE,Maus,4,"19,90",offen
+5079,2026-03-17,kunde5079@example.com,DE,Dockingstation,2,"149,00",bezahlt

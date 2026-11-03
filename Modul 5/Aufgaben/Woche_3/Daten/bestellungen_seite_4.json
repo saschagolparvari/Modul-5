@@ -1,0 +1,285 @@
+{
+ "meta": {
+  "seite": 4,
+  "pro_seite": 25,
+  "gesamt_bestellungen": 111,
+  "naechste_seite": 5
+ },
+ "daten": [
+  {
+   "bestell_id": 4075,
+   "datum": "2026-04-24",
+   "kunde": {
+    "email": "katrin.becker@example.com",
+    "land": "DE"
+   },
+   "produkt": "Tastatur",
+   "menge": 3,
+   "preis_eur": 39.9
+  },
+  {
+   "bestell_id": 4076,
+   "datum": "2026-04-24",
+   "kunde": {
+    "email": "felix.klein@example.com",
+    "land": "DE"
+   },
+   "produkt": "USB-C-Kabel",
+   "menge": 4,
+   "preis_eur": 9.95
+  },
+  {
+   "bestell_id": 4077,
+   "datum": "2026-04-24",
+   "kunde": {
+    "email": null,
+    "land": "DE"
+   },
+   "produkt": "Dockingstation",
+   "menge": 3,
+   "preis_eur": 149.0
+  },
+  {
+   "bestell_id": 4078,
+   "datum": "2026-04-24",
+   "kunde": {
+    "email": "olivia.richter@example.com",
+    "land": "DE"
+   },
+   "produkt": "Headset",
+   "menge": 3,
+   "preis_eur": 59.9
+  },
+  {
+   "bestell_id": 4079,
+   "datum": "2026-04-24",
+   "kunde": {
+    "email": "anna.lange@example.com",
+    "land": "DE"
+   },
+   "produkt": "Headset",
+   "menge": 1,
+   "preis_eur": 59.9
+  },
+  {
+   "bestell_id": 4080,
+   "datum": "2026-04-24",
+   "kunde": {
+    "email": "greta.koch@example.com",
+    "land": "DE"
+   },
+   "produkt": "Dockingstation",
+   "menge": 4,
+   "preis_eur": 149.0
+  },
+  {
+   "bestell_id": 4081,
+   "datum": "2026-04-25",
+   "kunde": {
+    "email": "ben.braun@example.com",
+    "land": "AT"
+   },
+   "produkt": "Headset",
+   "menge": 4,
+   "preis_eur": 59.9
+  },
+  {
+   "bestell_id": 4082,
+   "datum": "2026-04-25",
+   "kunde": {
+    "email": "felix.richter@example.com",
+    "land": "DE"
+   },
+   "produkt": "Dockingstation",
+   "menge": 1,
+   "preis_eur": 149.0
+  },
+  {
+   "bestell_id": 4083,
+   "datum": "2026-04-25",
+   "kunde": {
+    "email": "katrin.zimmermann@example.com",
+    "land": "DE"
+   },
+   "produkt": "Maus",
+   "menge": 1,
+   "preis_eur": 19.9
+  },
+  {
+   "bestell_id": 4084,
+   "datum": "2026-04-25",
+   "kunde": {
+    "email": "clara.lange@example.com",
+    "land": "DE"
+   },
+   "produkt": "Dockingstation",
+   "menge": 4,
+   "preis_eur": 149.0
+  },
+  {
+   "bestell_id": 4085,
+   "datum": "2026-04-25",
+   "kunde": {
+    "email": "olivia.richter@example.com",
+    "land": "AT"
+   },
+   "produkt": "Tastatur",
+   "menge": 4,
+   "preis_eur": 39.9
+  },
+  {
+   "bestell_id": 4086,
+   "datum": "2026-04-25",
+   "kunde": {
+    "email": "felix.richter@example.com",
+    "land": "DE"
+   },
+   "produkt": "Headset",
+   "menge": 4,
+   "preis_eur": 59.9
+  },
+  {
+   "bestell_id": 4087,
+   "datum": "2026-04-26",
+   "kunde": {
+    "email": "hannah.krueger@example.com",
+    "land": "DE"
+   },
+   "produkt": "Monitor 24 Zoll",
+   "menge": 3,
+   "preis_eur": 129.0
+  },
+  {
+   "bestell_id": 4088,
+   "datum": "2026-04-27",
+   "kunde": {
+    "email": "nils.schulz@example.com",
+    "land": "DE"
+   },
+   "produkt": "Monitor 24 Zoll",
+   "menge": 3,
+   "preis_eur": 129.0
+  },
+  {
+   "bestell_id": 4089,
+   "datum": "2026-04-27",
+   "kunde": {
+    "email": "jonas.hoffmann@example.com",
+    "land": "AT"
+   },
+   "produkt": "Headset",
+   "menge": 2,
+   "preis_eur": 59.9
+  },
+  {
+   "bestell_id": 4090,
+   "datum": "2026-04-27",
+   "kunde": {
+    "email": "felix.richter@example.com",
+    "land": "DE"
+   },
+   "produkt": "Tastatur",
+   "menge": 2,
+   "preis_eur": 39.9
+  },
+  {
+   "bestell_id": 4091,
+   "datum": "2026-04-27",
+   "kunde": {
+    "email": "theresa.hartmann@example.com",
+    "land": "DE"
+   },
+   "produkt": "Monitor 24 Zoll",
+   "menge": 3,
+   "preis_eur": 129.0
+  },
+  {
+   "bestell_id": 4092,
+   "datum": "2026-04-27",
+   "kunde": {
+    "email": "jonas.hoffmann@example.com",
+    "land": "DE"
+   },
+   "produkt": "Headset",
+   "menge": 3,
+   "preis_eur": 59.9
+  },
+  {
+   "bestell_id": 4093,
+   "datum": "2026-04-28",
+   "kunde": {
+    "email": "nils.schulz@example.com",
+    "land": "AT"
+   },
+   "produkt": "USB-C-Kabel",
+   "menge": 2,
+   "preis_eur": 9.95
+  },
+  {
+   "bestell_id": 4094,
+   "datum": "2026-04-28",
+   "kunde": {
+    "email": "tim.klein@example.com",
+    "land": "AT"
+   },
+   "produkt": "Tastatur",
+   "menge": 3,
+   "preis_eur": 39.9
+  },
+  {
+   "bestell_id": 4095,
+   "datum": "2026-04-28",
+   "kunde": {
+    "email": null,
+    "land": "DE"
+   },
+   "produkt": "USB-C-Kabel",
+   "menge": 2,
+   "preis_eur": 9.95
+  },
+  {
+   "bestell_id": 4096,
+   "datum": "2026-04-28",
+   "kunde": {
+    "email": "lukas.schwarz@example.com",
+    "land": "DE"
+   },
+   "produkt": "Maus",
+   "menge": 2,
+   "preis_eur": 19.9
+  },
+  {
+   "bestell_id": 4097,
+   "datum": "2026-04-28",
+   "kunde": {
+    "email": "marie.neumann@example.com",
+    "land": "DE"
+   },
+   "produkt": "Monitor 24 Zoll",
+   "menge": 1,
+   "preis_eur": 129.0
+  },
+  {
+   "bestell_id": 4098,
+   "datum": "2026-04-29",
+   "kunde": {
+    "email": "david.lange@example.com",
+    "land": "AT"
+   },
+   "produkt": "Headset",
+   "menge": 2,
+   "preis_eur": 59.9
+  },
+  {
+   "bestell_id": 4099,
+   "datum": "2026-04-29",
+   "kunde": {
+    "email": "david.hoffmann@example.com",
+    "land": "AT"
+   },
+   "produkt": "Dockingstation",
+   "menge": 4,
+   "preis_eur": 149.0
+  }
+ ]
+}
