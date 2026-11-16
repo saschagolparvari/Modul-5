@@ -1,0 +1,12 @@
+{
+    "zeitpunkt_utc": "2026-11-16T09:44:26.043250+00:00",
+    "quelle": "Mock-API (lokale JSON-Dateien)",
+    "eingelesene_seiten": 5,
+    "datensaetze_roh": 112,
+    "transport_dubletten": 1,
+    "entfernte_bestell_id": 4075,
+    "datensaetze_eindeutig": 111,
+    "erwartete_bestellungen": 111,
+    "fehlende_emails": 4,
+    "status": "erfolgreich"
+}
